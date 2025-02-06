@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timmy Quach - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .contact-info {
+            font-size: 14px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Timmy Quach</h1>
+        <p class="contact-info">San Francisco · (415) 690-3122</p>
+        <p class="contact-info">timmyminhgiaquach@gmail.com · <a href="https://linkedin.com/in/timmyquach" target="_blank">LinkedIn</a></p>
+        
+        <div class="section">
+            <h2>Education</h2>
+            <p><strong>University of San Francisco – Double Don</strong></p>
+            <p>MS in Entrepreneurship and Innovation (Expected Graduation: June 2025)</p>
+            <p><strong>University of San Francisco - Dons Scholarship</strong></p>
+            <p>BS in Business Administration - Marketing (Graduated: May 2023)</p>
+        </div>
+        
+        <div class="section">
+            <h2>Experience</h2>
+            <p><strong>Marketing Lead, Aura Tea and Coffee</strong> (September 2023 – January 2024)</p>
+            <ul>
+                <li>Increased revenue and engagement by forming strategic partnerships with local markets and pop-ups.</li>
+                <li>Executed data-driven strategies, leveraging insights to enhance customer experience and optimize sales performance.</li>
+                <li>Spearheaded social media campaigns, growing engagement and visibility on platforms with 7K+ followers.</li>
+                <li>Developed innovative branding for a new product line, driving customer acquisition and loyalty.</li>
+            </ul>
+            
+            <p><strong>President, Southeast Asian Student Association</strong> (May 2021 – December 2022)</p>
+            <ul>
+                <li>Managed cross-functional initiatives, including large-scale events with up to 100 attendees, resulting in a 30% membership increase.</li>
+                <li>Oversaw budget allocation and fundraising efforts, achieving a 1.5x ROI.</li>
+                <li>Established and maintained partnerships with diverse stakeholders to drive organizational success.</li>
+            </ul>
+            
+            <p><strong>Marketing Chair, Vietnamese Student Association</strong> (August 2021 – May 2022)</p>
+            <ul>
+                <li>Created high-impact marketing materials using Adobe Creative Suite and Canva to boost event attendance.</li>
+                <li>Monitored and optimized social media performance, enhancing brand visibility and engagement.</li>
+                <li>Fostered collaborative relationships with campus organizations to execute joint initiatives.</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>Strategic Planning and Execution</li>
+                <li>Data Analysis and Metrics Development</li>
+                <li>Cross-Functional Collaboration</li>
+                <li>Project Management</li>
+                <li>Content Creation (Adobe Creative Suite, Canva)</li>
+                <li>Social Media Management</li>
+                <li>Networking and Cloud Technology Familiarity</li>
+                <li>Language: Fluent in Vietnamese (Written and Oral)</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
